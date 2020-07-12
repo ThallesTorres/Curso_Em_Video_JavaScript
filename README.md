@@ -2,12 +2,6 @@
 
 ![](https://i.imgur.com/ZfZWCEm.png)
 
-## Disciplinas
-
- - __Sistemas de Informação:__ profº José Walmir Gonçalves Duque
- - __Engenharia de Software I:__ profº Giuliano Araujo Bertoti 
- - __Linguagem de Programação:__ profª Juliana Forin Pasquini Martinez
-
 ## Equipe
 
  - __Product Owner:__ [Guilherme Oliveira Pontes Alvarenga](https://github.com/guilhermeUndy)
